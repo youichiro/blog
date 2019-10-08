@@ -1,0 +1,7 @@
+.idea
+.python-version
+config/local_settings.py
+media/images/*
+media/markdownx/*
+static/*
+!.gitkeep
