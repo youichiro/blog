@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.utils.html import mark_safe
 from markdownx.admin import MarkdownxModelAdmin
-from blog.models import Category, Tag, Post, Comment, Image
+from .models import Category, Tag, Post, Comment, Image
 
 
 class CategoryAdmin(admin.ModelAdmin):

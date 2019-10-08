@@ -2,7 +2,7 @@ from django.contrib import admin
 from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
-from blog.urls import router
+from apps.blog.urls import router
 
 admin.site.site_title = 'cinnamon blog'
 admin.site.site_header = 'cinnamon blog'

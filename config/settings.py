@@ -1,9 +1,12 @@
 import os
+import sys
 
 SECRET_KEY = 'wwnuqakl%4q-$rkk&8$t8c=4-je%a_l#o-8o(d&2k9kl*8j=a)'
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE_URL = 'http://localhost:8000'
+
+sys.path.append(os.path.join(BASE_DIR, 'apps'))
 
 DEBUG = True
 ALLOWED_HOSTS = []
@@ -17,7 +20,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'markdownx',
     'rest_framework',
-    'blog',
+    'apps.blog',
 ]
 
 MIDDLEWARE = [
