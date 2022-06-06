@@ -59,14 +59,6 @@ export const TagSEO = ({ title, description }) => {
         ogImage={ogImageUrl}
         twImage={twImageUrl}
       />
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title={`${description} - RSS feed`}
-          href={`${siteMetadata.siteUrl}${router.asPath}/feed.xml`}
-        />
-      </Head>
     </>
   )
 }
