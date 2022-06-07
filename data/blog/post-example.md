@@ -7,3 +7,4 @@ summary: summary
 ---
 
 main content
+example posts: https://tailwind-nextjs-starter-blog.vercel.app/
