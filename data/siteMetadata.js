@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'youichiro blog',
   author: 'youichiro',
-  headerTitle: 'youichiro blog',
+  headerTitle: 'youichiro blog 🐈‍⬛',
   description: 'youichiro blog',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
