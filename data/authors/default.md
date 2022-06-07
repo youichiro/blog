@@ -7,4 +7,6 @@ twitter: https://twitter.com/youichiroz
 github: https://github.com/youichiro
 ---
 
-aaaa
+![img](/static/images/about-img.jpg)
+
+My Motorbike!
