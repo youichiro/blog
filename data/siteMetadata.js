@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'youichiro blog 🐈‍⬛',
   description: 'youichiro blog',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://www.youichiro.me/',
+  siteUrl: 'https://www.youichiro.me',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/my-twitter-card.png',
   email: 'cinnamon416@gmail.com',
