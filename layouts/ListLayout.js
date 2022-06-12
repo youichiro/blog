@@ -73,7 +73,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                         ))}
                       </div>
                     </div>
-                    <div className="darkx:text-gray-400 prose max-w-none text-gray-500">
+                    <div className="darkx:text-gray-400 prose max-w-none break-words text-gray-500">
                       {summary}
                     </div>
                   </div>
