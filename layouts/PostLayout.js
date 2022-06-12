@@ -6,6 +6,8 @@ import Image from '@/components/Image'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import ScrollTop from '@/components/ScrollTop'
+import { format } from 'date-fns'
+import ja from 'date-fns/locale/ja'
 
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
@@ -21,15 +23,15 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       />
       <ScrollTop />
       <article>
-        <div className="xl:darkx:divide-gray-700 xl:divide-y xl:divide-gray-200">
+        <div className="xl:darkx:divide-gray-700 divide-y divide-gray-200">
           <header className="pt-6 xl:pb-6">
-            <div className="space-y-1 text-center">
+            <div className="space-y-1">
               <dl className="space-y-10">
                 <div>
                   <dt className="sr-only">Published on</dt>
                   <dd className="darkx:text-gray-400 text-base font-medium leading-6 text-gray-500">
                     <time dateTime={date}>
-                      {new Date(date).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
+                      {format(new Date(date), 'yyyy/M/d', { locale: ja })}
                     </time>
                   </dd>
                 </div>

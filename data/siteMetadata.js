@@ -10,7 +10,6 @@ const siteMetadata = {
   email: 'cinnamon416@gmail.com',
   github: 'https://github.com/youichiro',
   twitter: 'https://twitter.com/youichiroz',
-  locale: 'ja-JP-u-ca-japanese',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.

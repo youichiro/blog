@@ -1,6 +1,6 @@
 ---
 title: ER図を作るためのツールまとめ
-date: '2020-06-12'
+date: '2022-06-12'
 tags: ['database']
 draft: false
 summary: Mermaid/PlantUML/TablePlus/dbdiagram.io/draw.io/Rails ERD
