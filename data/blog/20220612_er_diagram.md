@@ -224,7 +224,7 @@ https://diagramplus.com/
 
 ## dbdiagram.io
 
-[dbdiagram.io](https://dbdiagram.io/home)はブラウザ上で ER 図を作れるツールです
+[dbdiagram.io](https://dbdiagram.io/home)はブラウザ上で ER 図を作れるツールです<br />
 アカウント登録すればシェア URL を発行できます
 
 ![img](/static/images/20220612_er_diagram/08.png)
