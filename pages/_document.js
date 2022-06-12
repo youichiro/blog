@@ -12,7 +12,7 @@ class MyDocument extends Document {
           <meta name="msapplication-TileColor" content="#da532c" />
           <meta name="theme-color" content="white" />
         </Head>
-        <body className="darkx:bg-gray-900 darkx:text-white bg-white text-black antialiased">
+        <body className="darkx:bg-gray-900 darkx:text-white mx-2 bg-white text-black antialiased">
           <Main />
           <NextScript />
         </body>
