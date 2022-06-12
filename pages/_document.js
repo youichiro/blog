@@ -10,8 +10,7 @@ class MyDocument extends Document {
           <link rel="manifest" href="/site.webmanifest" />
           <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#da532c" />
-          <meta name="theme-color" media="(prefers-color-scheme: light)" content="white" />
-          <meta name="theme-color" media="(prefers-color-scheme: dark)" content="black" />
+          <meta name="theme-color" content="white" />
         </Head>
         <body className="bg-white text-black antialiased dark:bg-gray-900 dark:text-white">
           <Main />
