@@ -72,7 +72,7 @@ $ bin/rails db:migrate
 Administrate を導入します<br/>
 Gemfile に`gem "administrate"`を追加してインストールします
 
-```Gemfile
+```:Gemfile
 # add
 gem "administrate"
 ```
@@ -280,7 +280,7 @@ defalut_locale を ja に指定します
 
 `config/locales/ja.yml`ファイルを作成し、モデルの情報を記述します
 
-```config/locales/ja.yml
+```yml:config/locales/ja.yml
 ja:
   activerecord:
     models:
