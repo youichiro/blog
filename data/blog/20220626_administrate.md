@@ -98,10 +98,10 @@ $ bin/rails generate administrate:install
 ```diff:config/routes.rb
  Rails.application.routes.draw do
 +  namespace :admin do
-+      resources :posts
++    resources :posts
 +
-+      root to: "posts#index"
-+    end
++    root to: "posts#index"
++  end
    resources :posts
  end
 ```
