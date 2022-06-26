@@ -22,9 +22,6 @@ export default function Home({ posts }) {
           <h1 className="darkx:text-gray-100 text-3xl font-extrabold leading-9 tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:leading-14">
             Latest
           </h1>
-          <p className="darkx:text-gray-400 text-lg leading-7 text-gray-500">
-            {siteMetadata.description}
-          </p>
         </div>
         <ul className="darkx:divide-gray-700 divide-y divide-gray-200">
           {!posts.length && 'No posts found.'}
