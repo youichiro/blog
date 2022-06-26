@@ -428,6 +428,8 @@ app/dashboards/post_dashboard.rb の`display_resource`メソッドに表示さ�
 
 ![img](/static/images/20220626_administrate/11.png)
 
+その他の administrate の詳細は[公式ガイド](https://administrate-demo.herokuapp.com/)をご参照ください
+
 ## GitHub
 
 今回の内容のソースコードはこちらのリポジトリで見れます<br/>
