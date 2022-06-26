@@ -10,7 +10,9 @@ summary:
 
 [Administrate](https://github.com/thoughtbot/administrate)は Rails で管理画面を自動生成してくれるライブラリです
 
-[デモページ](https://administrate-prototype.herokuapp.com/admin)
+- [GitHub](https://github.com/thoughtbot/administrate)
+- [デモページ](https://administrate-prototype.herokuapp.com/admin)
+- [公式ガイド](https://administrate-demo.herokuapp.com/)
 
 ![img](/static/images/20220626_administrate/01.png)
 
