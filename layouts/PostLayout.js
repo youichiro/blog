@@ -24,7 +24,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <ScrollTop />
       <article>
         <div className="xl:darkx:divide-gray-700 divide-y divide-gray-200">
-          <header className="pt-6 xl:pb-6">
+          <header className="pb-3">
             <div className="space-y-1">
               <dl className="space-y-10">
                 <div>
