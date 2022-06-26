@@ -3,7 +3,7 @@ title: Railsの管理画面gem Administrate を使ってみる
 date: '2022-06-26'
 tags: ['rails']
 draft: false
-summary: Administrateの使い方を紹介します
+summary:
 ---
 
 ## Administrate とは
