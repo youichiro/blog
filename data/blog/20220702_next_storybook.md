@@ -128,10 +128,12 @@ root ページに表示する
 ```
 
 `outlined={false}, size={'small'}` の場合
-![img](https://storage.googleapis.com/zenn-user-upload/791ec26caefd-20220702.png)
+
+![img](/static/images/20220702_next_storybook/01.png)
 
 `outlined={true}, size={'middle'}` の場合
-![img](https://storage.googleapis.com/zenn-user-upload/c718245c5a9c-20220702.png)
+
+![img](/static/images/20220702_next_storybook/02.png)
 
 ## Storybook をインストールする
 
@@ -150,7 +152,7 @@ storybook を起動する
 $ yarn storybook
 ```
 
-![img](https://storage.googleapis.com/zenn-user-upload/3505103c29bb-20220702.png)
+![img](/static/images/20220702_next_storybook/03.png)
 
 ## Button コンポーネントのストーリーファイルを作成する
 
@@ -215,7 +217,7 @@ Default.args = {
  }
 ```
 
-![img](https://storage.googleapis.com/zenn-user-upload/ba960900e676-20220702.png)
+![img](/static/images/20220702_next_storybook/04.png)
 
 まだ Tailwind が読み込まれていない
 
@@ -262,7 +264,7 @@ $ yarn add -D @storybook/addon-postcss
 
 表示できた
 
-![img](https://storage.googleapis.com/zenn-user-upload/5d91f237a3c1-20220702.png)
+![img](/static/images/20220702_next_storybook/05.png)
 
 ## testing ライブラリをインストールする
 
