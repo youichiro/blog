@@ -47,9 +47,6 @@ summary:
 記述式問題の例
 ![img](https://img.esa.io/uploads/production/attachments/17949/2022/09/17/106776/cfc1c3ff-66fd-4160-9ea5-fcdf812cd965.png)
 ![img](https://img.esa.io/uploads/production/attachments/17949/2022/09/17/106776/6ef74bc7-14b2-4bb2-965e-0a76d5c55b4e.png)
-![img](https://img.esa.io/uploads/production/attachments/17949/2022/09/17/106776/45557422-0228-47cd-aaf0-2b030f22280c.png)
-![img](https://img.esa.io/uploads/production/attachments/17949/2022/09/17/106776/75c9aa63-e415-49e3-976e-f40033c078a7.png)
-![img](https://img.esa.io/uploads/production/attachments/17949/2022/09/17/106776/3bfc9351-28ba-4657-a3e1-849f71574ab5.png)
 
 [ 「大学入学共通テスト(仮称)」 記述式問題のモデル問題例](https://www.dnc.ac.jp/albums/abm00009385.pdf) より
 
